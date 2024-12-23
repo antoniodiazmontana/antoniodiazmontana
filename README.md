@@ -9,6 +9,7 @@ I'm a passionate developer currently learning and growing as a programmer. With 
 
 ## 🧑‍💻 Projects I'm Working On:
 - **2D RPG Map Creator**: Developing a fully customizable 2D map creation tool for RPG games.
+- **Some FullStack projects**: Creating different apps and webs to practice and improve my skills
 
 ## 🌱 What I'm Learning:
 - Deepening my skills in JavaScript, Vue.js, and backend technologies.
