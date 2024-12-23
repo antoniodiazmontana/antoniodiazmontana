@@ -1,18 +1,28 @@
-# Hello, I'm Antonio 👋
+# Hi there, I'm Antonio 👋
 
-Welcome to my GitHub profile! I'm a passionate developer who loves working on open-source projects and collaborating with others.
+I'm a passionate developer currently learning and growing as a programmer. With years of experience in sales and as a school director, I have strong people skills, communication, and team management abilities, which I bring to my programming career. I enjoy creating new things, solving problems, and always striving to learn more.
 
-## 🔭 I'm currently working on:
-- Building web applications using Vue.js and React
-- Contributing to open-source projects
+## 🚀 Technologies & Tools I Use:
+- **Languages**: HTML, CSS, JavaScript, Java, C#, SQL
+- **Frameworks/Libraries**: Vue, Express
+- **Tools**: Git, VSCode, Postman, Docker
 
-## 🚀 My Skills:
-- **Languages**: JavaScript, Python, HTML, CSS
-- **Frameworks**: Vue.js, React, Node.js
-- **Tools**: Git, Webpack, Docker
+## 🧑‍💻 Projects I'm Working On:
+- **2D RPG Map Creator**: Developing a fully customizable 2D map creation tool for RPG games.
 
-## 👯 I’m looking to collaborate on:
-- Full-stack web applications
+## 🌱 What I'm Learning:
+- Deepening my skills in JavaScript, Vue.js, and backend technologies.
+- Enhancing my understanding of algorithms, databases, and system design.
 
-## ⚡ Fun fact:
-- I love playing guitar and fishing!
+## 💼 My Professional Background:
+I have spent several years as a commercial sales professional and later as a director of a school, managing a team of 6-8 teachers. This experience has helped me develop excellent people skills, leadership abilities, and event management expertise, which I now apply to my programming career.
+
+## 📬 How to Contact Me:
+- Email: [antoniodiazmontana@example.com](mailto:antoniodiazmontana@example.com)
+- LinkedIn: [Antonio Diaz](https://www.linkedin.com/in/antoniodiazmontana)
+
+## 🌟 Check Out My Work:
+- GitHub: [antoniodiazmontana](https://github.com/antoniodiazmontana)
+
+## 🎯 Fun Fact:
+I love creating and learning—whether it's programming or discovering new ways to improve processes, I’m always excited about new challenges!
