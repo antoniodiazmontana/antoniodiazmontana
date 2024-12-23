@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Antonio 👋
 
 Welcome to my GitHub profile! I'm a passionate developer who loves working on open-source projects and collaborating with others.
 
@@ -6,17 +6,13 @@ Welcome to my GitHub profile! I'm a passionate developer who loves working on op
 - Building web applications using Vue.js and React
 - Contributing to open-source projects
 
-## 🌱 I’m currently learning:
-- Advanced JavaScript and TypeScript
-- Cloud technologies like AWS and Azure
+## 🚀 My Skills:
+- **Languages**: JavaScript, Python, HTML, CSS
+- **Frameworks**: Vue.js, React, Node.js
+- **Tools**: Git, Webpack, Docker
 
 ## 👯 I’m looking to collaborate on:
 - Full-stack web applications
-- Open-source JavaScript libraries
-
-## 📫 How to reach me:
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- Twitter: [@yourTwitterHandle](https://twitter.com/yourTwitterHandle)
 
 ## ⚡ Fun fact:
-- I love playing chess and learning about machine learning!
+- I love playing guitar and fishing!
