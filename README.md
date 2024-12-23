@@ -18,11 +18,11 @@ I'm a passionate developer currently learning and growing as a programmer. With 
 I have spent several years as a commercial sales professional and later as a director of a school, managing a team of 6-8 teachers. This experience has helped me develop excellent people skills, leadership abilities, and event management expertise, which I now apply to my programming career.
 
 ## 📬 How to Contact Me:
-- Email: [antoniodiazmontana@example.com](mailto:antoniodiazmontana@example.com)
-- LinkedIn: [Antonio Diaz](https://www.linkedin.com/in/antoniodiazmontana)
+- Email: a.diazmontana@gmail.com
+- LinkedIn: https://www.linkedin.com/in/antoniodiazmontana
 
 ## 🌟 Check Out My Work:
-- GitHub: [antoniodiazmontana](https://github.com/antoniodiazmontana)
+- GitHub: https://github.com/antoniodiazmontana
 
 ## 🎯 Fun Fact:
 I love creating and learning—whether it's programming or discovering new ways to improve processes, I’m always excited about new challenges!
