@@ -4,7 +4,7 @@ I'm a passionate developer currently learning and growing as a programmer. With 
 
 ## 🚀 Technologies & Tools I Use:
 - **Languages**: HTML, CSS, JavaScript, Java, C#, SQL
-- **Frameworks/Libraries**: Vue, Express
+- **Frameworks/Libraries**: Vue, Angular, Express
 - **Tools**: Git, VSCode, Postman, Docker
 
 ## 🧑‍💻 Projects I'm Working On:
